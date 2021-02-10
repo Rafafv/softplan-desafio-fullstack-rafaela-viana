@@ -33,7 +33,7 @@ $ npm install
 # Execute a aplicação
 $ npm start
 
-# O servidor iniciará na porta:3000
+# O servidor iniciará no localhost, porta:3000
 ```
 
 
@@ -71,7 +71,7 @@ spring.jpa.hibernate.ddl-auto=update
 # Execute a aplicação
 $ na sua idea execute o backend em Run
 
-# O servidor iniciará na porta:8080
+# O servidor iniciará no localhost, porta:8080
 ```
   
 ### Testes no Sistema
