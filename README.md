@@ -1,6 +1,15 @@
   # Desafio [Softplan](https://www.softplan.com.br/)
   
   ## Sistema para Gerenciar Processos
+  
+   * Visão de administrador - 
+  Incluir, excluir, atualizar e visualizar usuários,
+   *  Visão de usuário-triador - 
+  Incluir e visualizar processos,
+  Atribuir um usuário a realizar um parecer sobre um processo,
+   * Visão de usuário-finalizador -
+  Visualizar processos pendentes de parecer.
+  Incluir o parecer sobre o processo.
 
   ### Pré-requisitos
 
