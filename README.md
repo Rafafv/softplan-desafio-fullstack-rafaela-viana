@@ -58,7 +58,7 @@ usuário administrador, usuario = 'Softplan' e password = 123.
 $ cd backend
 
 # Navegue até a pasta src > main > resources, e edite o arquivo application
-$ 
+
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.datasource.username=username
 spring.datasource.password=password
