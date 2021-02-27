@@ -19,6 +19,9 @@
 [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)
 ou sua Ide preferida
 
+Mysql
+
+
 ### 🎲 Rodando o Front End
 
 ```bash
